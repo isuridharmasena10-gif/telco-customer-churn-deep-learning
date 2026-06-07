@@ -62,12 +62,6 @@ Assuming a telecom base of 500,000 customers:
 
 ---
 
-## Project Structure
-
-
-
----
-
 ## How to Run
 
 1. Clone the repo
